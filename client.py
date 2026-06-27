@@ -1,3 +1,4 @@
+# this script has to be run from PBJ Session on a CAI Workbench Project
 import os
 import json
 from openai import OpenAI
