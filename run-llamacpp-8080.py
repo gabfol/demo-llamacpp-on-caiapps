@@ -1,3 +1,4 @@
+# this script has to be run as Cloudera AI Application (entry point this script...)
 import os
 import subprocess
 import sys
